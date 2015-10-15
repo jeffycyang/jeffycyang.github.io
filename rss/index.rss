@@ -1,66 +1,27 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Big Yang Theory</title><description>Math, Code, &amp; Everything Inbetween</description><link>http://localhost:2368/</link><generator>Ghost 0.7</generator><lastBuildDate>Tue, 13 Oct 2015 08:26:32 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Welcome to Ghost</title><description>&lt;p&gt;You're live! Nice. We've put together a little post to introduce you to the Ghost editor and get you started. You can manage your content by signing in to the admin area at &lt;code&gt;&amp;lt;your blog URL&amp;gt;/ghost/&lt;/code&gt;. When you arrive, you can select this post from a list&lt;/p&gt;</description><link>http://localhost:2368/welcome-to-ghost/</link><guid isPermaLink="false">66d295e9-5a20-4e19-9a5b-dfdb6a449a2f</guid><category>Getting Started</category><dc:creator>Jeffrey Yang</dc:creator><pubDate>Fri, 09 Oct 2015 20:27:41 GMT</pubDate><content:encoded>&lt;p&gt;You're live! Nice. We've put together a little post to introduce you to the Ghost editor and get you started. You can manage your content by signing in to the admin area at &lt;code&gt;&amp;lt;your blog URL&amp;gt;/ghost/&lt;/code&gt;. When you arrive, you can select this post from a list on the left and see a preview of it on the right. Click the little pencil icon at the top of the preview to edit this post and read the next section!&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Big Yang Theory</title><description>Math, Code, &amp; Everything Inbetween</description><link>http://localhost:2368/</link><generator>Ghost 0.7</generator><lastBuildDate>Thu, 15 Oct 2015 14:35:09 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>MakerSquare vs. U.S. Model of Education</title><description>&lt;p&gt;So I've just started my program at MakerSquare, one and a half weeks in, and it has already been one of the best experience of my life.  MakerSquare is a "Tech Bootcamp", a class that seeks to teach you the fundamentals of some form of programming (generally web-related) within a&lt;/p&gt;</description><link>http://localhost:2368/makersquare-vs-u-s-model-of-education/</link><guid isPermaLink="false">2b5914c3-d026-458b-9d1d-e9e24a8b38c0</guid><dc:creator>Jeffrey Yang</dc:creator><pubDate>Thu, 15 Oct 2015 14:33:18 GMT</pubDate><content:encoded>&lt;p&gt;So I've just started my program at MakerSquare, one and a half weeks in, and it has already been one of the best experience of my life.  MakerSquare is a "Tech Bootcamp", a class that seeks to teach you the fundamentals of some form of programming (generally web-related) within a span of a few months such that you can apply for a job in said field right after you graduate.&lt;/p&gt;
 
-&lt;h2 id="gettingstarted"&gt;Getting Started&lt;/h2&gt;
+&lt;p&gt;Tech bootcamp programs tend to last roughly 3-4 month and the issue they seek to address is to produce truly useful individuals for the real world in software engineering upon graduation.  The reason this is even an issue is because most colleges/universities teach "Computer Science" (a.k.a. CS) but they do not have a program for "Software Engineering". They teach the theoretical framework of programming but they do not emphasize the applicability.  It's like teaching music theory, but never encouraging/allowing students to compose songs. And then sending students out into the field who may have a solid understanding of theory, but no idea how to compose.&lt;/p&gt;
 
-&lt;p&gt;Ghost uses something called Markdown for writing. Essentially, it's a shorthand way to manage your post formatting as you write!&lt;/p&gt;
+&lt;p&gt;Face it, you are going to encounter challenges along the way when you are trying to create something new from scratch. And that is where colleges fail and "Trade Schools" succeed - that is what MakerSquare is, a trade school. You are learning one skill - software engineering in this case, and the entire course is focused on achieving proficiency and real-world applicability in this one skill. And this is where I will now segue into my critique of the education model of the U.S.&lt;/p&gt;
 
-&lt;p&gt;Writing in Markdown is really easy. In the left hand panel of Ghost, you simply write as you normally would. Where appropriate, you can use &lt;em&gt;shortcuts&lt;/em&gt; to &lt;strong&gt;style&lt;/strong&gt; your content. For example, a list:&lt;/p&gt;
+&lt;p&gt;I am enjoying MakerSquare so much right now because, never have I been in an environment where everyone wants to be here. And by everyone, I mean students, instructors, and staff.  Students are all required to be within the premises 11 hours a day Mon-Fri and 8 and a half hours on Sat. It's called a bootcamp for a reason. Think about standard schools elementary through college - 75-90% of the students hate it and are only there because their parents force them or because it's what they feel is expected of them via social pressure.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Item number one&lt;/li&gt;
-&lt;li&gt;Item number two
-&lt;ul&gt;&lt;li&gt;A nested item&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;A final item&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;But the real amazing thing about MakerSquare is, everyone WANTS to be here. The vibe is insane. Students, Staff, and Instructors regularly stay 12+ hours because they WANT to be here - they WANT to learn, they WANT to facilitate, they WANT to teach (respectively).&lt;/p&gt;
 
-&lt;p&gt;or with numbers!&lt;/p&gt;
+&lt;p&gt;I have been an instructor for as many as 15 students at a time (taught courses in SAT math, AP calculus, AP physics, etc.) and I've been a student (obviously). I've seen both sides of the spectrum and MakerSquare is unique because this is the first time I've been in a class where EVERYONE wants to be here and EVERYONE wants to try their best.&lt;/p&gt;
 
-&lt;ol&gt;
-&lt;li&gt;Remember to buy some milk  &lt;/li&gt;
-&lt;li&gt;Drink the milk  &lt;/li&gt;
-&lt;li&gt;Tweet that I remembered to buy the milk, and drank it&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;Which leads me to my next point that the U.S.'s model of education is extremely outdated. Throughout history, the most successful individuals (in terms of their contribution/improvement to society as a whole) made their most influential discoveries between the ages of 16-25.&lt;/p&gt;
 
-&lt;h3 id="links"&gt;Links&lt;/h3&gt;
+&lt;p&gt;And, yet, in the U.S. educational model, we expect/enforce our citizens to - finish high school -&gt; go to college -&gt; ??? - &gt; profit (get job).  Basically, we take people at the prime of their lives, and place them into an institution where they sit on their asses and listen to some dude lecture, and then they go home and recite the lecture on paper (homework). Like, what is the point?  This is the time when one should get their hands dirty, to have some real hands-on experience, and yet they are just taking rote memorization classes. Even worse, half or more of the classes are GE's (general education) and are completely unrelated to the major one chose when he/she applied for said college.&lt;/p&gt;
 
-&lt;p&gt;Want to link to a source? No problem. If you paste in a URL, like &lt;a href="http://ghost.org"&gt;http://ghost.org&lt;/a&gt; - it'll automatically be linked up. But if you want to customise your anchor text, you can do that too! Here's a link to &lt;a href="http://ghost.org"&gt;the Ghost website&lt;/a&gt;. Neat.&lt;/p&gt;
+&lt;p&gt;Consider the education model of the progressive countries in the EU (European Union). In countries like Germany, Denmark, and the Netherlands - they actually discourage students from attending university. Not only that, their high school ends at grade 10 or 11 wherein students either go directly into the work force, take part in some form of apprenticeship, or attend a trade school (see where I'm getting at). &lt;/p&gt;
 
-&lt;h3 id="whataboutimages"&gt;What about Images?&lt;/h3&gt;
+&lt;p&gt;These progressive countries in the EU realize that one should only enroll in university if one truly wants to work in academia and research.  University is essentially a trade school for becoming either a researcher or professor (usually both). Off topic tangent - I do not know what it's like in the countries I'm promoting, but it's hilarious that most universities in America require their researchers to teach courses.  It's stupid because some people are amazing at research but terrible at teaching, maybe because they are just inherently bad at it, but mostly because they just don't care much for it. So now you just have some dude/dudette giving a half-assed lecture because he/she just wants to get back to his/her actual job - researching. And this negative feedback of a brilliant researcher giving a crap lecture goes on to instill a lack of interest in the students attending said lecture.&lt;/p&gt;
 
-&lt;p&gt;Images work too! Already know the URL of the image you want to include in your article? Simply paste it in like this to make it show up:&lt;/p&gt;
+&lt;p&gt;One final thought. I had a friend bring up an interesting point when I discussed this viewpoint of mine. That the countries in the EU adopt a rather Socialist system whereas the US is obviously Capitalist. His opinion is that there is less chance to "make it big" in the EU than in the US. But having thought more about it, I am still very much against the US's educational model/policies. I've just bagged on how American universities force their researchers to teach whether they want to or not. But consider our lower level educators.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src="https://ghost.org/images/ghost.png" alt="The Ghost Logo"&gt;&lt;/p&gt;
+&lt;p&gt;If you're an American, you must by now have realized that the profession of teaching (from elementary through high school) in the US is extremely looked down upon. And why is that? We look down on the people who are the ones in charge of educating the next generation so we can improve ourselves as a species. It's ludicrous. In the progressive countries in the EU, teaching is a highly respected profession and teachers are paid extremely well so people who are geared towards being and educator are incentivized to go into the field.  But in the US, we scoff and laugh at our educators as the 'dumb ones' who couldn't get a job in some field and instead had to teach 'uneducated children'.  Once again, a negative feedback loop that just makes things worse and worse.  Low pay and lack of respect means the people who become teachers in the US tend, to be frank, suck a lot. &lt;/p&gt;
 
-&lt;p&gt;Not sure which image you want to use yet? That's ok too. Leave yourself a descriptive placeholder and keep writing. Come back later and drag and drop the image in to upload:&lt;/p&gt;
+&lt;p&gt;To reinforce this point, I was a physics major in university in the US, and there were several tracks you could take - BioPhysics, Mathematical Physics, AstroPhysics, and finally Physics Education - that is, becoming a physics/science teacher for schools below the college level. And the lowest caliber students ended up doing the Physics Education track because it was the easiest.  So basically, the worst students took up the role of being the ones to teach the next generation of students...think about that...&lt;/p&gt;
 
-&lt;h3 id="quoting"&gt;Quoting&lt;/h3&gt;
-
-&lt;p&gt;Sometimes a link isn't enough, you want to quote someone on what they've said. Perhaps you've started using a new blogging platform and feel the sudden urge to share their slogan? A quote might be just the way to do it!&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Ghost - Just a blogging platform&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id="workingwithcode"&gt;Working with Code&lt;/h3&gt;
-
-&lt;p&gt;Got a streak of geek? We've got you covered there, too. You can write inline &lt;code&gt;&amp;lt;code&amp;gt;&lt;/code&gt; blocks really easily with back ticks. Want to show off something more comprehensive? 4 spaces of indentation gets you there.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;.awesome-thing {
-    display: block;
-    width: 100%;
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 id="readyforabreak"&gt;Ready for a Break?&lt;/h3&gt;
-
-&lt;p&gt;Throw 3 or more dashes down on any new line and you've got yourself a fancy new divider. Aw yeah.&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;h3 id="advancedusage"&gt;Advanced Usage&lt;/h3&gt;
-
-&lt;p&gt;There's one fantastic secret about Markdown. If you want, you can write plain old HTML and it'll still work! Very flexible.&lt;/p&gt;
-
-&lt;p&gt;&lt;input type="text" placeholder="I'm an input field!"&gt;&lt;/p&gt;
-
-&lt;p&gt;That should be enough to get you started. Have fun - and let us know what you think :)&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;Anyway, I've gone on for a bit too long - back to MakerSquare and coding until my brain won't work anymore. Stay strong, stay happy, stay passionate - and take care of yourselves.&lt;/p&gt;</content:encoded></item></channel></rss>
