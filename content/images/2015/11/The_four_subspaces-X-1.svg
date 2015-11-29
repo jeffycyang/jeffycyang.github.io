@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2299" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" sodipodi:docbase="/scratch" sodipodi:docname="The_four_subspaces.svg" inkscape:version="0.44.1" sodipodi:version="0.32"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1024px" height="768px"
+	 viewBox="0 0 1024 768" enable-background="new 0 0 1024 768" xml:space="preserve">
+<sodipodi:namedview  inkscape:cx="512" inkscape:cy="389.16923" id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:zoom="0.67708333" inkscape:window-y="70" inkscape:window-x="25" inkscape:window-height="718" inkscape:window-width="1024" inkscape:pageshadow="2" inkscape:current-layer="layer1" inkscape:pageopacity="0.0" inkscape:document-units="px">
+	</sodipodi:namedview>
+<g id="layer1" inkscape:groupmode="layer" inkscape:label="Layer 1">
+	<path id="path6080" fill="none" stroke="#000000" stroke-width="2.3238" d="M430.918,424.862l-139.507,87.814"/>
+	<path id="path6090" fill="none" stroke="#000000" stroke-width="2.3238" d="M265.518,315.262l-139.507,87.814"/>
+	<path id="path6092" fill="none" stroke="#000000" stroke-width="2.3238" d="M430.918,403.076l-139.507-87.814"/>
+	<path id="path6094" fill="none" stroke="#000000" stroke-width="2.3238" d="M126.011,424.862l139.507,87.814"/>
+	<path id="path6096" fill="none" stroke="#000000" stroke-width="2.3238" d="M905.918,423.385l-139.507,87.814"/>
+	<path id="path6098" fill="none" stroke="#000000" stroke-width="2.3238" d="M740.518,313.785L601.011,401.6"/>
+	<path id="path6100" fill="none" stroke="#000000" stroke-width="2.3238" d="M905.918,401.6l-139.507-87.814"/>
+	<path id="path6102" fill="none" stroke="#000000" stroke-width="2.3238" d="M601.011,423.385l139.507,87.814"/>
+	<path id="path6104" fill="none" stroke="#000000" stroke-width="2.3238" d="M905.918,646.4l-139.507,87.814"/>
+	<path id="path6106" fill="none" stroke="#000000" stroke-width="2.3238" d="M740.518,536.801l-139.507,87.814"/>
+	<path id="path6108" fill="none" stroke="#000000" stroke-width="2.3238" d="M905.918,624.615l-139.507-87.814"/>
+	<path id="path6110" fill="none" stroke="#000000" stroke-width="2.3238" d="M601.011,646.4l139.507,87.814"/>
+	<path id="path6112" fill="none" stroke="#000000" stroke-width="2.3238" d="M430.918,646.4l-139.507,87.814"/>
+	<path id="path6114" fill="none" stroke="#000000" stroke-width="2.3238" d="M265.518,536.801l-139.507,87.814"/>
+	<path id="path6116" stroke="#000000" stroke-width="2.3238" d="M430.918,624.615l-139.507-87.814"/>
+	<path id="path6118" fill="none" stroke="#000000" stroke-width="2.3238" d="M126.011,646.4l139.507,87.814"/>
+	<path id="path6140" fill="#FF0C00" stroke="#D83C2F" stroke-width="2.7" d="M730.249,525.562L440.772,634.854"/>
+	<path id="path7111" fill="#000080" stroke="#1F2D86" stroke-width="2.7" d="M304.896,525.562l289.477,109.292"/>
+	<path id="path8082" fill="#FF0C00" stroke="#D83C2F" stroke-width="2.5" d="M729.567,525.488l-33.125-4.124"/>
+	<path id="path10022" fill="#FF0C00" stroke="#D83C2F" stroke-width="2.5" d="M729.742,526.082l-21.94,23.018"/>
+	<path id="path10024" fill="#000080" stroke="#1F2D86" stroke-width="2.5" d="M305.546,525.523l33.125-4.124"/>
+	<path id="path10026" fill="#000080" stroke="#1F2D86" stroke-width="2.5" d="M305.372,526.117l21.94,23.017"/>
+	<path id="path10997" fill="#D40000" stroke="#D01818" stroke-width="2.6934" d="M451.196,391.211l137.306-0.1"/>
+	<path id="path11968" fill="none" stroke="#0D0D8F" stroke-width="2.6934" d="M451.196,434.03l137.307-0.101"/>
+	<path id="path11973" fill="#D40000" stroke="#D01818" stroke-width="2.826" d="M587.828,391.211l-19.784,10.072"/>
+	<path id="path11975" fill="#D40000" stroke="#D01818" stroke-width="2.826" d="M587.87,391.057l-19.784-10.072"/>
+	<path id="path11977" stroke="#0D0D8F" stroke-width="2.826" d="M451.908,434.067l19.783,10.072"/>
+	<path id="path11979" stroke="#0D0D8F" stroke-width="2.826" d="M451.865,433.913l19.784-10.072"/>
+	<text transform="matrix(1 0 0 1 691.8457 423.0117)" font-family="'TimesNewRomanPSMT'" font-size="48">im(X)</text>
+	<text transform="matrix(1 0 0 1 685.9375 646.0273)" font-family="'TimesNewRomanPSMT'" font-size="48">ker(X )</text>
+	<text transform="matrix(1 0 0 1 205.938 648.9814)" font-family="'TimesNewRomanPSMT'" font-size="48">ker(X)</text>
+	<text transform="matrix(1 0 0 1 210.3687 427.4434)" font-family="'TimesNewRomanPSMT'" font-size="48">im(X )</text>
+	<text transform="matrix(1 0 0 1 795.3359 622.2988)" font-family="'TimesNewRomanPSMT'" font-size="28">T</text>
+	<text transform="matrix(1 0 0 1 309.4277 403.7139)" font-family="'TimesNewRomanPSMT'" font-size="28">T</text>
+	<text transform="matrix(1 0 0 1 269.4458 534.3135)" font-family="'TimesNewRomanPSMT'" font-size="36">0</text>
+	<text transform="matrix(1 0 0 1 745.0156 535.79)" font-family="'TimesNewRomanPSMT'" font-size="36">0</text>
+	<text transform="matrix(1 0 0 1 418.6152 559.4209)" font-family="'TimesNewRomanPSMT'" font-size="36">X </text>
+	<text transform="matrix(1 0 0 1 592.8926 560.8975)" font-family="'TimesNewRomanPSMT'" font-size="36">X </text>
+	<text transform="matrix(1 0 0 1 504.2764 376.2822)" font-family="'TimesNewRomanPSMT'" font-size="36">X </text>
+	<text transform="matrix(1 0 0 1 507.2305 472.2822)" font-family="'TimesNewRomanPSMT'" font-size="36">X </text>
+	<text transform="matrix(1 0 0 1 533.4434 454.2529)" font-family="'TimesNewRomanPSMT'" font-size="20">T</text>
+	<text transform="matrix(1 0 0 1 443.8276 541.3916)" font-family="'TimesNewRomanPSMT'" font-size="20">T</text>
+	<text transform="matrix(0.8457 0 0 1 30.2266 646.1201)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="45.0236">n − r</text>
+	<text transform="matrix(0.8457 0 0 1 923.7656 644.6436)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="45.0236">m − r</text>
+	<text transform="matrix(0.8457 0 0 1 28.749 423.1055)" font-family="'TimesNewRomanPSMT'" font-size="45.0236">dim </text>
+	<text transform="matrix(0.8457 0 0 1 97.4658 423.1055)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="45.0236">r</text>
+	<text transform="matrix(0.8457 0 0 1 917.8564 421.6279)" font-family="'TimesNewRomanPSMT'" font-size="45.0236">dim </text>
+	<text transform="matrix(0.8457 0 0 1 986.5742 421.6279)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="45.0236">r</text>
+	<path id="path2168" sodipodi:nodetypes="cc" fill="#FFFFFF" stroke="#BD3737" stroke-width="3.7" d="M297.698,141.5
+		c157.593-17.849,293.516-17.157,446.031-2.954"/>
+	<path id="path2174" sodipodi:nodetypes="cc" fill="none" stroke="#111384" stroke-width="3.7" d="M296.221,167.866
+		c157.593,17.849,293.516,17.156,446.031,2.954"/>
+	<path id="path5091" sodipodi:nodetypes="cc" fill="none" stroke="#111384" stroke-width="3.7" d="M296.829,167.834l29.357-5.701"/>
+	
+		<path id="path5097" inkscape:transform-center-y="87.914582" inkscape:transform-center-x="-10.785945" sodipodi:nodetypes="cc" fill="none" stroke="#111384" stroke-width="3.7" d="
+		M296.824,168.042l27.413,11.953"/>
+	<path id="path6134" sodipodi:nodetypes="cc" fill="#FFFFFF" stroke="#BD3737" stroke-width="3.7" d="M743.17,138.59l-29.357,5.701"
+		/>
+	
+		<path id="path6136" inkscape:transform-center-y="-87.914582" inkscape:transform-center-x="10.785945" sodipodi:nodetypes="cc" fill="#FFFFFF" stroke="#BD3737" stroke-width="3.7" d="
+		M743.175,138.382l-27.413-11.953"/>
+	<text transform="matrix(1 0 0 1 506.4141 222.6211)" font-family="'TimesNewRomanPSMT'" font-size="36">X </text>
+	<text transform="matrix(1 0 0 1 532.627 205.5918)" font-family="'TimesNewRomanPSMT'" font-size="20">T</text>
+	<text transform="matrix(1 0 0 1 505.7188 117.7598)" font-family="'TimesNewRomanPSMT'" font-size="36">X </text>
+	<text transform="matrix(1 0 0 1 760.6133 175.4482)" font-family="'MyriadPro-Regular'" font-size="56">ℝ</text>
+	<text transform="matrix(1 0 0 1 268.7783 137.832)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="22">n</text>
+	<text transform="matrix(1 0 0 1 796.0391 134.8779)" font-family="'TimesNewRomanPS-ItalicMT'" font-size="22">m</text>
+	<text transform="matrix(1 0 0 1 236.3062 178.4023)" font-family="'MyriadPro-Regular'" font-size="56">ℝ</text>
+</g>
+</svg>
