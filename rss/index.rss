@@ -1,4 +1,82 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Big Yang Theory</title><description>Math, Code, &amp; Everything in Between</description><link>http://localhost:2368/</link><generator>Ghost 0.7</generator><lastBuildDate>Thu, 07 Jan 2016 00:56:48 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Complex Numbers, The Fundamental Theorem of Algebra, &amp; Euler's Formula</title><description>&lt;p&gt;I had originally intended to write a blog post encompassing all the fundamental theorems in the fields of mathematics that I've studied.  But part way through, specifically when I got to the section about the Fundamental Theorem of Algebra (surprise surprise), I realized I just had so much to say&lt;/p&gt;</description><link>http://localhost:2368/complex-numbers-the-fundamental-theorem-of-algebra/</link><guid isPermaLink="false">4162829c-a406-4b6a-b130-aedb588cbd9c</guid><dc:creator>Jeffrey Yang</dc:creator><pubDate>Wed, 06 Jan 2016 10:28:07 GMT</pubDate><content:encoded>&lt;p&gt;I had originally intended to write a blog post encompassing all the fundamental theorems in the fields of mathematics that I've studied.  But part way through, specifically when I got to the section about the Fundamental Theorem of Algebra (surprise surprise), I realized I just had so much to say about complex numbers that I couldn't refrain from writing a whole blog post about that alone.  So here it is.&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Big Yang Theory</title><description>Math, Code, &amp; Everything in Between</description><link>http://localhost:2368/</link><generator>Ghost 0.7</generator><lastBuildDate>Fri, 29 Jan 2016 22:49:17 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>The Boundary of A Boundary is Null</title><description>&lt;p&gt;I was about to put the word 'Calculus' in the title of this article but I realized it may scare off potential readers, so maybe I've duped you into opening the link with this cryptic headline.  My apologies.  Now that you're here, you may as well read on!  In this&lt;/p&gt;</description><link>http://localhost:2368/the-boundary-of-a-boundary-is-null/</link><guid isPermaLink="false">f491cb3b-1560-4e08-b28a-1aec755321ae</guid><dc:creator>Jeffrey Yang</dc:creator><pubDate>Fri, 29 Jan 2016 19:02:09 GMT</pubDate><content:encoded>&lt;p&gt;I was about to put the word 'Calculus' in the title of this article but I realized it may scare off potential readers, so maybe I've duped you into opening the link with this cryptic headline.  My apologies.  Now that you're here, you may as well read on!  In this post I'd like to divulge a recurrent (and oddly underappreciated) theme in the grand scheme that is Calculus and, in fact, the universe as a whole.  Wait, don't tune out!  This is a very visual concept - and quite intriguing at that, although I'm well aware you may all have difficulty taking my word at this point, but trust me. Moving on.&lt;/p&gt;
+
+&lt;p&gt;Take a line segment, that is a line that with endpoints (the segment may be curved).  What is the boundary of a line segment? Think about it for a moment (hint: I already mentioned it).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/01/boundary_1.svg" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;It's the endpoints!  The boundary of a line segment is it's endpoints.  What are the boundaries of the endpoints then?  This is a little tougher.&lt;/p&gt;
+
+&lt;p&gt;Well points, by their very definition, are zero-dimensional entities, so they have no boundaries.  The boundary of a point is null.  Hence, the points are the boundary of a line segment, but the boundary of the boundary - the boundary of the points, is null.&lt;/p&gt;
+
+&lt;p&gt;A 1-dimensional entity has a 0-dimensional boundary.&lt;/p&gt;
+
+&lt;p&gt;Lets move higher up in dimension.  Take a circular disc.  What is it's boundary?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/01/boundary_2.svg" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;If you said the boundary is the circular edge of the surface, you are correct.  Now, what is the boundary of this circle (just the circle, NOT the disc).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/01/boundary_3.svg" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;Well, it has no boundary.  It loops back onto itself, there are no endpoints, no boundary.  Once again, the boundary of a boundary is null.&lt;/p&gt;
+
+&lt;p&gt;A 2-dimensional entity (the disc) has a 1-dimensional boundary (the circle&lt;sup&gt;*&lt;/sup&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;i style="font-size:75%"&gt;&lt;sup&gt;*&lt;/sup&gt;A circle is 1-dimensional because it's actually just a line that loops on itself - more explicitly it can be defined by (a) function(s) of one variable, whereas a 2-dimensional structure would require 2 variables and so-on and so-forth.&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;Lets go higher still in dimensions.  Take a solid ball.  The boundary in this case is the spherical surface that encloses the insides of the solid ball.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/01/boundary_4.svg" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;A 3-dimensional entity (the ball) has a 2-dimensional boundary (the spherical surface).&lt;/p&gt;
+
+&lt;p&gt;What's the boundary to this spherical surface?  Well it's null.  See the pattern?  The spherical surface has no hole, it has no boundary - like the circle was to the circular disc - the sphere 'loops' back onto itself so it has no boundary.  Again, the boundary of a boundary is null.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://mathworld.wolfram.com/images/eps-gif/sphere_700.gif" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;It makes intuitive sense, but it's definitely a curious oddity.  We can move up higher and higher in dimensions and this proposition will still hold true.  However, as beings who can only really understand up to the third dimension, visualizing this relationship in dimensions higher than the three is no longer possible so I will stop here with the visuals.&lt;/p&gt;
+
+&lt;p&gt;In an effort to keep this post shorter, I will briefly overview the heart of the concept.  You may be wondering what any of this has to do with Calculus.  Far more than you could even imagine  to be honest.  Unfortunately, if you've never had any exposure to Vector Calculus, the following terminology and notation may be quite foreign&lt;sup&gt;*&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;i style="font-size:75%;"&gt;&lt;sup&gt;*&lt;/sup&gt;With some Googling, and a strong intrinsic sense of curiosity, I truly believe these formulas and notations are really not as intimidating as they may first seem&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;Recall the Vector Calculus identities:&lt;/p&gt;
+
+&lt;p&gt;The Curl of the Gradient of a scalar function is null &lt;br&gt;
+&lt;img src="https://upload.wikimedia.org/math/0/6/c/06c785891edd76876f1f7cd312498f24.png" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;The Divergence of the Curl of a vector field is null &lt;br&gt;
+&lt;img src="https://upload.wikimedia.org/math/4/f/8/4f8ae548c9ac2c8336d2ac2eb939e750.png" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;The concept that the 'boundary of a boundary is null' is precisely encapsulated in these identities.  In fact, it's the other way around, the fact that the boundary of a boundary is null implies that these identities must be true.&lt;/p&gt;
+
+&lt;p&gt;The Divergence of a Curl equals zero is usually interpreted with the understanding that something that only swirls (curling) has no radial motion (no diverging component).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://kasadkad.files.wordpress.com/2009/09/derham2.png?w=450&amp;amp;h=426" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;The Curl of a Gradient equals zero is similarly understood with the description that something that only moves radially outward/inward (diverges) has no swirling motion (no curling component).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://mathinsight.org/media/image/image/vector_field_explosion.png" alt=""&gt;
+&lt;img src="http://mathinsight.org/media/image/image/vector_field_implosion.png" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;This is precisely because you take the Curl on a bounded surface (2-D) - and you take the Divergence on a bounded space (3-D).  These operations can only be performed with respect to a boundary.  So if you take the equivalent next derivative (if you took the Curl, you'd take the Divergence next - if you took the Gradient, you'd take the Curl next) then you will get zero - the boundary of a boundary is null.&lt;/p&gt;
+
+&lt;p&gt;If you think about it, the &lt;a href="https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus"&gt;Fundamental Theorem of Calculus&lt;/a&gt;, which states that Integration and Differentiation are inverse processes, is ultimately describing a relationship that exists on a property of an entity between adjacent dimensions. (consider the derivative of x&lt;sup&gt;2&lt;/sup&gt; is some constant times x&lt;sup&gt;1&lt;/sup&gt; - the integral of x&lt;sup&gt;1&lt;/sup&gt; is some constant times x&lt;sup&gt;2&lt;/sup&gt;)&lt;/p&gt;
+
+&lt;p&gt;Furthermore, what the &lt;a href="https://en.wikipedia.org/wiki/Helmholtz_decomposition"&gt;Fundamental Theorem of Vector Calculus&lt;/a&gt;, the higher dimensional analogue, actually means is that any smooth twice-differentiable vector field can be decomposed into a swirling component (divergence-free) and a radial component (curl-free) - also known as the Helmholtz Decomposition.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://upload.wikimedia.org/math/c/6/8/c6835dd57f943f7e34a5fd702bb33981.png" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;As per usual, I'm well aware that everything I've talked about up to this point seems extremely abstract and completely useless - but, as likewise per usual, this concept is an intrinsic characterization of how the universe works and is equivalent to the law of the conservation of energy.  In fact, any quantity that is conserved (momentum, energy, spin, curvature, charge, etc.), can be equivalently formulated in some way as an expression of 'the boundary of a boundary is null' (usually in phase space) and vice versa.&lt;/p&gt;
+
+&lt;p&gt;Anyway, this post is running way longer than I expected again.  I hope I've shed light on another face of Calculus for you all today - and for those who've never had exposure to Calculus, hopefully there was some takeaway from this geometric curiosity.  I've posted some additional links below if you're interested.  As always, stay passionate, stay strong, stay curious, and take care of yourselves.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-size:75%;"&gt;&lt;a href="https://en.wikipedia.org/wiki/Helmholtz_decomposition"&gt;Helmholtz Decomposition a.k.a. The Fundamental Theorem of Vector Calculus&lt;/a&gt;&lt;/span&gt; &lt;br&gt;
+&lt;span style="font-size:75%;"&gt;&lt;a href="https://en.wikipedia.org/wiki/Curl_(mathematics)#Generalizations"&gt;Generalization of Div &amp;amp; Curl to Differential Geometry&lt;/a&gt;&lt;/span&gt; &lt;br&gt;
+&lt;span style="font-size:75%;"&gt;&lt;a href="https://en.wikipedia.org/wiki/Exterior_derivative"&gt;The Exterior Derivative&lt;/a&gt;&lt;/span&gt; &lt;br&gt;
+&lt;span style="font-size:75%;"&gt;&lt;a href="https://en.wikipedia.org/wiki/De_Rham_cohomology#Hodge_decomposition"&gt;Hodge Decomposition&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i style="font-size:75%;"&gt;Credit to &lt;a href="https://en.wikipedia.org"&gt;Wikipedia&lt;/a&gt;, &lt;a href="https://kasadkad.wordpress.com"&gt;Kasadkad&lt;/a&gt;, &lt;a href="http://mathworld.wolfram.com"&gt;Wolfram Math World&lt;/a&gt;, and &lt;a href="http://mathinsight.org/"&gt;Math Insight&lt;/a&gt; for their images&lt;/i&gt;&lt;/p&gt;</content:encoded></item><item><title>Complex Numbers, The Fundamental Theorem of Algebra, &amp; Euler's Formula</title><description>&lt;p&gt;I had originally intended to write a blog post encompassing all the fundamental theorems in the fields of mathematics that I've studied.  But part way through, specifically when I got to the section about the Fundamental Theorem of Algebra (surprise surprise), I realized I just had so much to say&lt;/p&gt;</description><link>http://localhost:2368/complex-numbers-the-fundamental-theorem-of-algebra/</link><guid isPermaLink="false">4162829c-a406-4b6a-b130-aedb588cbd9c</guid><dc:creator>Jeffrey Yang</dc:creator><pubDate>Wed, 06 Jan 2016 10:28:07 GMT</pubDate><content:encoded>&lt;p&gt;I had originally intended to write a blog post encompassing all the fundamental theorems in the fields of mathematics that I've studied.  But part way through, specifically when I got to the section about the Fundamental Theorem of Algebra (surprise surprise), I realized I just had so much to say about complex numbers that I couldn't refrain from writing a whole blog post about that alone.  So here it is.&lt;/p&gt;
 
 &lt;p&gt;A complex number is a number that has both a Real and an Imaginary part.  That is it has 'length' residing along the Real number line (the usual numbers we're all familiar with), what we call the Real axis, and a 'height' residing along an axis perpendicular to that Real number line, which we call the Imaginary axis.&lt;/p&gt;
 
@@ -20,7 +98,7 @@
 
 &lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/01/Complex_Numbers_3.png" alt=""&gt;&lt;/p&gt;
 
-&lt;p&gt;Well, let's be clever about this.  What do we know?  We know that multiplying by -1 will rotate us 180 degrees.  And multiplying by -1 again will rotate us back to our original position so multiply by -1 twice is the same as adding two 180 degree rotations together.  So what we want to do is multiply to 1 m/s by some number to move 1 m/s northwards, that is a, a 90 degree rotation.  Well, if multiplying by this number is equivalent to a 90 degree rotation, then if we were to multiply 1 m/s northwards by this number again, then we would've turned 180 degrees since multiplying by these rotation numbers is the same as adding the degrees of rotation.  So the square of this number is -1!  That is, a 90 degree rotation is equivalent to multiplication by the square root of -1, which we've come to call i for Imaginary (unfortunately).&lt;/p&gt;
+&lt;p&gt;Well, let's be clever about this.  What do we know?  We know that multiplying by -1 will rotate us 180 degrees.  And multiplying by -1 again will rotate us back to our original position so multiplying by -1 twice is the same as adding two 180 degree rotations together.  So what we want to do is multiply to 1 m/s by some number to move 1 m/s northwards, that is, a 90 degree rotation.  Well, if multiplying by this number is equivalent to a 90 degree rotation, then if we were to multiply 1 m/s northwards by this number again, then we would've turned 180 degrees since multiplying by these rotation numbers is the same as adding the degrees of rotation.  So the square of this number is -1!  That is, a 90 degree rotation is equivalent to multiplication by the square root of -1, which we've come to call i for Imaginary (unfortunately).&lt;/p&gt;
 
 &lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/01/Complex_Numbers_4.png" alt=""&gt;&lt;/p&gt;
 
